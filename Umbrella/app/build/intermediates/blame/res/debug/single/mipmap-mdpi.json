@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\android.codechallenge\\Umbrella\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\Desktop\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi\\ic_launcher.png",
+        "source": "C:\\Users\\MCS\\Desktop\\Umbrella\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    }
+]

@@ -1,0 +1,68 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:2:1-35:12
+	package
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:3:5-35
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:5:5-67
+	android:name
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:5:22-64
+application
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:7:5-33:19
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\MCS\.android\build-cache\c46a129b17d3575f996dd8a89621369c176876c8\output\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\MCS\.android\build-cache\4c413e4c7531e6d87fce936e6f63f3c9c1145a55\output\AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:10:9-41
+	android:allowBackup
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:8:9-35
+	android:icon
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:9:9-43
+	android:theme
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:11:9-47
+activity#com.nerdery.umbrella.activity.MainActivity
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:12:9-22:20
+	android:screenOrientation
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:15:13-49
+	android:label
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:14:13-45
+	android:name
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:13:13-50
+intent-filter#android.intent.action.MAIN
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:17:13-21:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:18:17-69
+	android:name
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:18:25-66
+activity#com.nerdery.umbrella.activity.SplashActivity
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:24:9-32:20
+	android:theme
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:26:13-47
+	android:name
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:25:13-52
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:27:13-31:29
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:30:17-77
+	android:name
+		ADDED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml:30:27-74
+uses-sdk
+INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:23.1.1] C:\Users\MCS\.android\build-cache\c46a129b17d3575f996dd8a89621369c176876c8\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:23.1.1] C:\Users\MCS\.android\build-cache\85fd790da5f668be215c45fd2888fe1f3d4f97d4\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-v4:23.1.1] C:\Users\MCS\.android\build-cache\4c413e4c7531e6d87fce936e6f63f3c9c1145a55\output\AndroidManifest.xml:20:5-43
+	android:targetSdkVersion
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\MCS\assignments_albert\Umbrella\app\src\main\AndroidManifest.xml

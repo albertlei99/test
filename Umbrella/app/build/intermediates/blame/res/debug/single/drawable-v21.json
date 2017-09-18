@@ -1,0 +1,34 @@
+[
+    {
+        "merged": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\MCS\\.android\\build-cache\\c46a129b17d3575f996dd8a89621369c176876c8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\MCS\\.android\\build-cache\\c46a129b17d3575f996dd8a89621369c176876c8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\MCS\\.android\\build-cache\\c46a129b17d3575f996dd8a89621369c176876c8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\assignments_albert\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\MCS\\.android\\build-cache\\c46a129b17d3575f996dd8a89621369c176876c8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\Desktop\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\MCS\\.android\\build-cache\\c46a129b17d3575f996dd8a89621369c176876c8\\output\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\MCS\\Desktop\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\MCS\\.android\\build-cache\\c46a129b17d3575f996dd8a89621369c176876c8\\output\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anny\\Desktop\\Codechallange\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_action_bar_item_background_material.xml",
+        "source": "C:\\Users\\Anny\\Desktop\\Codechallange\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\Anny\\Desktop\\Codechallange\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21\\abc_btn_colored_material.xml",
+        "source": "C:\\Users\\Anny\\Desktop\\Codechallange\\android.codechallenge\\Umbrella\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    }
+]
